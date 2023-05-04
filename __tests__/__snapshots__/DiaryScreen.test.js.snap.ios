@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check UI Checking <DiaryScreen /> 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FEFEFE",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://doodleipsum.com/700/flat?i=93edffde9cb584da90241b8253cf2de3",
+      }
+    }
+    style={
+      Object {
+        "aspectRatio": 1,
+        "top": "5%",
+        "width": "50%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "left",
+        "marginBottom": 15,
+        "width": "90%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#4947D9",
+          "fontFamily": "Avenir",
+          "fontSize": 30,
+          "fontWeight": "800",
+        }
+      }
+    >
+      Diary: 
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#4947D9",
+          "fontFamily": "Avenir",
+          "fontSize": 21,
+          "fontWeight": "200",
+        }
+      }
+    >
+      Reflect on your day today.
+    </Text>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "left",
+          "backgroundColor": "#4965CC",
+          "borderRadius": 5,
+          "marginTop": 15,
+          "opacity": 1,
+          "padding": 15,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#FFF",
+            "fontFamily": "Avenir",
+            "fontWeight": "800",
+          }
+        }
+      >
+        Create an Entry
+      </Text>
+    </View>
+  </View>
+  <Modal
+    animationType="slide"
+    hardwareAccelerated={false}
+    onRequestClose={[Function]}
+    transparent={false}
+    visible={false}
+  />
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "height": "100%",
+        "paddingHorizontal": "5%",
+        "width": "100%",
+      }
+    }
+  >
+    <RCTScrollView
+      style={
+        Object {
+          "marginBottom": "15%",
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "borderRadius": 5,
+              "borderStyle": "dashed",
+              "borderWidth": 1,
+              "height": "100%",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontFamily": "Avenir",
+                "fontWeight": "200",
+                "padding": 20,
+                "textAlign": "center",
+              }
+            }
+          >
+            Begin your self-reflection journey here.. Click on 'Create an Entry' to begin!
+          </Text>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;

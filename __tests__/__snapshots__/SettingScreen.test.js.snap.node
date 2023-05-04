@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check UI Checking <SettingScreen /> 1`] = `
+<div
+  className="css-view-1dbjc4n r-flex-13awgt0 r-flexDirection-eqz5dr r-justifyContent-1777fci r-margin-jgcjvd"
+>
+  <div
+    className="css-view-1dbjc4n r-flexBasis-1mlwlqe r-overflow-1udh08x r-zIndex-417010"
+    style={
+      Object {
+        "aspectRatio": "1",
+        "marginTop": "5%",
+        "width": "80%",
+      }
+    }
+  >
+    <div
+      className="css-view-1dbjc4n r-backgroundColor-1niwhzg r-backgroundPosition-vvn4in r-backgroundRepeat-u6sd8q r-backgroundSize-4gszlv r-bottom-1p0dtai r-height-1pi2tsx r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af r-width-13qz1uu r-zIndex-1wyyakw"
+      style={
+        Object {
+          "backgroundImage": "url(\\"https://doodleipsum.com/700/flat?i=4a912bdfb7a2b359421bf69acbd6e221\\")",
+        }
+      }
+      suppressHydrationWarning={true}
+    />
+    <img
+      alt=""
+      className="css-accessibilityImage-9pa8cd"
+      draggable={false}
+      src="https://doodleipsum.com/700/flat?i=4a912bdfb7a2b359421bf69acbd6e221"
+    />
+  </div>
+  <div
+    className="css-view-1dbjc4n r-width-13qz1uu"
+  >
+    <div
+      className="css-text-901oao r-color-i9v4gp r-fontFamily-9ovc40 r-fontSize-h1js2l r-fontWeight-b88u0q r-paddingLeft-1u936jj"
+      data-testid="getName"
+      dir="auto"
+    >
+      Hi
+      !
+    </div>
+    <div
+      className="css-text-901oao r-color-vgme89 r-fontFamily-9ovc40 r-fontSize-1tsn96g r-fontWeight-ovu0ai r-paddingLeft-1u936jj r-textShadow-1yrkt7t"
+      dir="auto"
+    >
+      Settings
+    </div>
+  </div>
+  <div
+    className="css-view-1dbjc4n r-WebkitOverflowScrolling-150rngu r-flexDirection-eqz5dr r-flexGrow-16y2uox r-flexShrink-1wbh5a2 r-overflowX-11yh6sk r-overflowY-1rnoaur r-padding-1pcd2l5 r-transform-1sncvnh r-width-13qz1uu"
+    onScroll={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    onWheel={[Function]}
+  >
+    <div
+      className="css-view-1dbjc4n"
+    >
+      <div
+        className="css-view-1dbjc4n r-backgroundColor-1niwhzg r-borderColor-1kdtp6h r-borderRadius-1f0042m r-borderWidth-rs99b7 r-boxShadow-afzbi9 r-cursor-1loqt21 r-elevation-1quu1zo r-height-o29g2o r-justifyContent-1777fci r-marginVertical-712mwr r-padding-1oqcu8e r-touchAction-1otgn73 r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-width-13qz1uu"
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onKeyDown={[Function]}
+        style={
+          Object {
+            "WebkitTransitionDuration": "0s",
+            "transitionDuration": "0s",
+          }
+        }
+        tabIndex="0"
+      >
+        <div
+          className="css-text-901oao r-fontFamily-9ovc40"
+          dir="auto"
+          style={
+            Object {
+              "fontSize": "18px",
+            }
+          }
+        >
+          Personal Information
+        </div>
+        <div
+          className="css-text-901oao r-fontFamily-9ovc40"
+          dir="auto"
+          style={
+            Object {
+              "fontSize": "15px",
+            }
+          }
+        >
+          Make changes to your personal information!
+        </div>
+      </div>
+      <div
+        className="css-view-1dbjc4n r-backgroundColor-1niwhzg r-borderColor-1kdtp6h r-borderRadius-1f0042m r-borderWidth-rs99b7 r-boxShadow-afzbi9 r-cursor-1loqt21 r-elevation-1quu1zo r-height-o29g2o r-justifyContent-1777fci r-marginVertical-712mwr r-padding-1oqcu8e r-touchAction-1otgn73 r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-width-13qz1uu"
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onKeyDown={[Function]}
+        style={
+          Object {
+            "WebkitTransitionDuration": "0s",
+            "transitionDuration": "0s",
+          }
+        }
+        tabIndex="0"
+      >
+        <div
+          className="css-text-901oao r-fontFamily-9ovc40"
+          dir="auto"
+          style={
+            Object {
+              "fontSize": "18px",
+            }
+          }
+        >
+          Reset and Clear
+        </div>
+        <div
+          className="css-text-901oao r-fontFamily-9ovc40"
+          dir="auto"
+          style={
+            Object {
+              "fontSize": "15px",
+            }
+          }
+        >
+          Reset and clear all logged moods and diary entries.
+        </div>
+      </div>
+      <div
+        className="css-view-1dbjc4n r-backgroundColor-1niwhzg r-borderColor-1kdtp6h r-borderRadius-1f0042m r-borderWidth-rs99b7 r-boxShadow-afzbi9 r-cursor-1loqt21 r-elevation-1quu1zo r-height-o29g2o r-justifyContent-1777fci r-marginVertical-712mwr r-padding-1oqcu8e r-touchAction-1otgn73 r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-width-13qz1uu"
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onKeyDown={[Function]}
+        style={
+          Object {
+            "WebkitTransitionDuration": "0s",
+            "transitionDuration": "0s",
+          }
+        }
+        tabIndex="0"
+      >
+        <div
+          className="css-text-901oao r-fontFamily-9ovc40"
+          dir="auto"
+          style={
+            Object {
+              "fontSize": "18px",
+            }
+          }
+        >
+          About
+        </div>
+        <div
+          className="css-text-901oao r-fontFamily-9ovc40"
+          dir="auto"
+          style={
+            Object {
+              "fontSize": "15px",
+            }
+          }
+        >
+          A guide on using this application!
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
